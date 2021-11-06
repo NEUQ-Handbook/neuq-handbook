@@ -1,40 +1,19 @@
-# 暑研/校外科研指南
+# README
 
-## 暑研
+## 如何参与修改Handbook
 
-### 加拿大
+### 方法一（推荐）：
 
-MITACS官方暑研，由加拿大政府牵头，与加拿大头部高校（多大、滑铁卢等）合作，会有加拿大政府提供的补助和津贴。
+github搜索用户[NEUQ-Handbook](https://github.com/NEUQ-Handbook)申请加入组织。
 
-申请时间几乎要提前一年，第二年的暑研在第一年11月份申请完毕，因为申请时间早，所以很多人错过了之后懊悔不已。
+进入加入组织后获取修改repo权限，git clone [https://github.com/NEUQ-Handbook/neuq-handbook](https://github.com/NEUQ-Handbook/neuq-handbook) 到本地。使用git 把自己的本地repo和github的repo关联后， 将本地代码git push到github端的repo。
 
-### 美国
+注意：可能涉及到多人协作。所以请在修改自己本地repo前git pull一下，拉取最新的代码到本地 :-D
 
-官方的暑研项目从高到低顺序排列：
+已经将组织里的repo和gitbook关联，组织的repo更新后，10min后刷新手册的网页，查看是否更新完毕。
 
-#### 斯坦福：&#x20;
+如果遇到问题，请email：fishcakewang11@gmail.com
 
-UGVR 每年只有清北科学学生有机会
+### 方法二：
 
-#### CMU RI：
-
-同上
-
-#### UCLA:&#x20;
-
-要求稍微放低，北邮专业第一曾经去过
-
-## 校外科研
-
-校内科研资源捉襟见肘，对想本科期间进组接触科研训练的同学十分不友好。不要急，我们可以另辟蹊径，在国内外高校寻求科研机会。
-
-例如，平时在学期内可以进行线上远程项目，寒暑假可以亲自到实地研究。
-
-## 陶瓷
-
-泛泛来说，陶瓷难度从高到低：
-
-教授>副教授>AP
-
-尤其是刚入职的AP，组里十分缺人，对于自带干粮自费又能力还不错的同学，陶瓷成功的概率会大大增加。
-
+将自己的markdown文件发送到email: fishcakewang11@gmail.com
